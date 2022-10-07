@@ -1,0 +1,148 @@
+.productBlock {
+    margin: 5px !important;
+}
+.payBlock {
+    min-width: 300px !important;
+}
+.payBlock button, .checkPaymentLink {
+    display: block;
+    background: #25a4ed !important;
+    padding: 10px 0px !important;
+    border: none !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    margin: 5px 0px !important;
+    cursor: pointer !important;
+    width: 100% !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    /* text-transform: uppercase !important; */
+    font-family: Arial !important;
+}
+.payBlock button:hover {
+    opacity: 0.9 !important;
+}
+.payBlock select {
+    width: 100% !important;
+    margin: 5px 0px !important;
+    height: 40px !important;
+    border-color: #ccc !important;
+}
+.loadingType {
+    opacity: 0.5 !important;
+    pointer-events: none !important;
+}
+.paySuccess, .payProcess, .payError {
+    padding: 10px !important;
+    background: #c6e9cd !important;
+    font-size: 13px !important;
+}
+.payProcess {
+    background: #e1e4ff !important;
+}
+.payError {
+    background: #f5dcdc !important;
+}
+.payConfirmation {
+    padding: 10px !important;
+    font-size: 13px !important;
+    background: #e1e4ff !important;
+}
+.IagreeRow {
+
+}
+.inError {
+    background: #f5dcdc !important;
+    padding: 10px !important;
+    margin: 10px 0px !important;
+}
+.WalletDataContent {
+    padding: 10px !important;
+    font-size: 13px !important;
+    background: #fff5e7 !important;
+    margin-bottom: 2px !important;
+}
+.walletsImg {
+    max-width: 100% !important;
+}
+.WalletDataContent .chainNameBlock .chainImg, .chainImg {
+    width: 33px !important;
+    height: 33px !important;
+    float: left !important;
+    margin-right: 10px !important;
+}
+.chainName, .accountAddress {
+    font-weight: bold !important;
+}
+
+.RadioPayTokensBlock {
+
+}
+.RadioPayTokensBlock .addressSenderToken {
+    width: 139px !important;
+    width: 160px !important;
+    margin-bottom: 5px !important;
+    margin-right: 5px !important;
+    float: left !important;
+    text-align: center !important;
+    position: relative !important;
+}
+.RadioPayTokensBlock .addressSenderToken.addressSenderTokenActive {
+    background: #8fe91729 !important;
+}
+.RadioPayTokensBlock .addressSenderToken input {
+    display: none;
+}
+.RadioPayTokensBlock .addressSenderToken .SenderTokenText {
+    display: block;
+    font-size: 13px !important;
+    text-align: center !important;
+}
+.RadioPayTokensBlock .addressSenderToken .SenderTokenText .SenderTokenTextName {
+    display: block;
+    font-weight: bold !important;
+}
+.RadioPayTokensBlock .addressSenderToken img {
+    width: 144px;
+    height: 144px;
+    margin-top: 5px;
+    opacity: 0.5 !important;
+}
+.RadioPayTokensBlock .addressSenderToken.addressSenderTokenActive img {
+    opacity: 1 !important;
+}
+.RadioPayTokensBlock .addressSenderToken .recommendedToken {
+    position: absolute !important;
+    background: #dd4646 !important;
+    color: #ffffff !important;
+    padding: 3px 5px !important;
+    top: 90px !important;
+    left: 5px !important;
+    border-radius: 7px !important;
+    z-index: 2 !important;
+    text-transform: uppercase !important;
+    font-family: Arial !important;
+    font-size: 15px !important;
+    /* border: 2px solid #dd4646 !important; */
+    font-weight: bold !important;
+    transform: rotate(-32deg) !important;
+}
+.addressSenderToken:checked + label {
+    color: red !important;
+}
+
+.WalletData, .SelectPayTokensBlock, .payTextBefore, .textError, .payText {
+    display: table;
+    width: 100% !important;
+}
+
+.BlockNetworks .BlockNetworksLi {
+    list-style: none;
+}
+.BlockNetworks .BlockNetworksLi a {
+    display: table !important;
+    margin: 5px 0px !important;
+    font-size: 14px !important;
+    line-height: 33px !important;
+    color: #1a73e8 !important;
+}
