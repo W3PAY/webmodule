@@ -1,6 +1,6 @@
 Terms and conditions
 
-By using the W3PAY website (the “Site”), its subdomains, github.com/W3PAY, and any services available within the site (collectively the “Services”), you agree to be bound by these Terms of Use as well as our Privacy Policy.
+By using the W3PAY website (the ï¿½Siteï¿½), its subdomains, github.com/W3PAY, and any services available within the site (collectively the ï¿½Servicesï¿½), you agree to be bound by these Terms of Use as well as our Privacy Policy.
 
 If you do not agree to the Terms of Use herein, do not use the Site or Services.
 
@@ -8,42 +8,17 @@ W3PAY reserves the right, at its sole discretion, to amend, change, modify, add 
 
 The current version of these terms is available at https://github.com/W3PAY. Your continued use of the Services following the published updates to the terms will mean that you accept and agree to the changes.
 
-We offer a wide range of services, and additional terms may apply. When you use W3PAY’s Services, you will also be subject to the guidelines, terms, and agreements applicable to that particular service (the “Service Terms”).
+We offer a wide range of services, and additional terms may apply. When you use W3PAYï¿½s Services, you will also be subject to the guidelines, terms, and agreements applicable to that particular service (the ï¿½Service Termsï¿½).
 
 If these Terms of Use are inconsistent with the Service Terms, the Service Terms will control.
 
 THIS AGREEMENT CONTAINS AN ARBITRATION PROVISION. ALL DISPUTES ARISING UNDER THIS USER AGREEMENT SHALL BE SETTLED IN BINDING ARBITRATION. ENTERING INTO THIS AGREEMENT CONSTITUTES A WAIVER OF YOUR RIGHT TO A TRIAL BY JURY AND PARTICIPATION IN A CLASS ACTION LAWSUIT.
 
-Accessing the Services W3PAY grants you a revocable, non-exclusive, non-transferable, limited license to use the Services (information or software) on the Site in accordance with these Terms of Use and applicable Service Terms.
-
-This is the grant of a license, not a transfer of title, and under this license, you may not: modify or copy the materials; attempt to decompile or reverse engineer any software contained on the Site; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or “mirror” the materials on any other server.
-
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by W3PAY at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
-
 You must keep secret all credentials associated with the Services. You are solely responsible for managing and maintaining the security of any information relating to such credentials and agree that W3PAY shall not be held responsible (and you shall not hold us responsible) for any unauthorized access to the Services or any resulting harm you may suffer.
-
-You agree to notify us immediately of any unauthorized access to or use of your user name or password or any other breach of security. You also agree to ensure that you exit from your account at the end of each session. You should use particular caution when accessing your account from a public or shared computer so that others are not able to view or record your password or other personal information.
-
-Your access to one or more Services may be contingent upon satisfaction of our onboarding processes, which may include verification of your identity and additional information we may request from time-to-time.
-
-The information we request may include, without limitation, personally identifiable information such as network address, name, email, address, telephone number, date of birth, taxpayer identification or social security number, official government-issued photo identification, and bank account information or other information we may reasonably deem helpful in satisfying our risk management or legal obligations.
-
-In providing this information to us you represent that it is accurate and agree to update your information promptly, but in no event later than 14 days following any change in your information. Failure to provide information or update it promptly may result in Services or funds being unavailable to you.
-
-Any and all communications from W3PAY may be provided to you via electronic mail at the address you provided when accessing the Services. W3PAY shall not be responsible for any harm you may suffer as a result of your failure to receive any notice provided to you in connection with your use of Services so long as such notice is provided to such email address.
-
-W3PAY may also communicate with you through other methods, including via telephone call, instant messaging or chat applications either operated by W3PAY or a third party. We may close, terminate, enable or disable any or all of the Services, or your access to the Services at any time and for any reason.
-
-Non-Custodial Nature of W3PAY Services W3PAY does not facilitate or provide brokerage, exchange, payment, escrow, remittance or merchant services. W3PAY’s technology acts as a non-custodial escrow service allowing its users to exchange value without any middlemen or counterparty risks.
-
-Users interact directly with a smart contract and decide on the terms of the trade. In true peer-to-peer fashion, W3PAY is never a party to any transaction. Because W3PAY is not a party, it’s impossible for W3PAY to impose spending conditions on escrows—such as how and when the receiving party can spend funds locked in the smart contract.
-
-Funds locked in the W3PAY ecosystem can only be retrieved by the rightful private key owner or the specific beneficiary set at time of contract execution. All pertinent data involved in transactions are entirely handled by the users. Users will not have to forfeit their rights to privacy in order to participate in the W3PAY ecosystem.
-
 
 Disclaimer Regarding Warranties
 
-W3PAY DISCLAIMS ANY AND ALL PROMISES, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, DATA ACCURACY, SYSTEM INTEGRATION, TITLE, NON-INFRINGEMENT AND/OR QUIET ENJOYMENT, AND ANY SERVICES PROVIDED BY W3PAY ARE PROVIDED “AS IS” AND “AS AVAILABLE.” EXCEPT AS EXPRESSLY PROVIDED HEREIN, YOU ACKNOWLEDGE THAT W3PAY MAKES NO WARRANTIES UNDER THIS AGREEMENT DIRECTLY FOR THE BENEFIT OF ANY END USER, AND THAT W3PAY’S OBLIGATIONS UNDER THIS AGREEMENT ARE FOR THE BENEFIT OF YOU ONLY, AND NOT FOR THE BENEFIT OF ANY OTHER PERSON. IN ENTERING INTO THIS AGREEMENT, YOU REPRESENT THAT YOU HAVE NOT RELIED UPON ANY REPRESENTATION OR WARRANTY OF W3PAY OR ITS AFFILIATES EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT. WE DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT ACCESS TO THE SERVICES SHALL BE CONTINUOUS, UNINTERRUPTED, TIMELY, OR ERROR-FREE.
+W3PAY DISCLAIMS ANY AND ALL PROMISES, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, DATA ACCURACY, SYSTEM INTEGRATION, TITLE, NON-INFRINGEMENT AND/OR QUIET ENJOYMENT, AND ANY SERVICES PROVIDED BY W3PAY ARE PROVIDED ï¿½AS ISï¿½ AND ï¿½AS AVAILABLE.ï¿½ EXCEPT AS EXPRESSLY PROVIDED HEREIN, YOU ACKNOWLEDGE THAT W3PAY MAKES NO WARRANTIES UNDER THIS AGREEMENT DIRECTLY FOR THE BENEFIT OF ANY END USER, AND THAT W3PAYï¿½S OBLIGATIONS UNDER THIS AGREEMENT ARE FOR THE BENEFIT OF YOU ONLY, AND NOT FOR THE BENEFIT OF ANY OTHER PERSON. IN ENTERING INTO THIS AGREEMENT, YOU REPRESENT THAT YOU HAVE NOT RELIED UPON ANY REPRESENTATION OR WARRANTY OF W3PAY OR ITS AFFILIATES EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT. WE DO NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT ACCESS TO THE SERVICES SHALL BE CONTINUOUS, UNINTERRUPTED, TIMELY, OR ERROR-FREE.
 
 You understand that we cannot and do not guarantee or warrant that files available for downloading from the Site will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data.
 
@@ -59,7 +34,7 @@ The contents of our Site and the Services should not be used as a basis for maki
 
 We make no representation or warranty of any kind, express or implied, statutory or otherwise, regarding the contents of the Services, information and functions made accessible through the Services, any hyperlinks to third party websites, or the security associated with the transmission of information through the Services, or any website linked to the Services.
 
-In using the Services, you may view content or services provided by third parties, including links to web pages and services of such parties (“Third Party Content”). We do not control, endorse or adopt any Third Party Content and have no responsibility for Third Party Content, including, without limitation, material that may be misleading, incomplete, erroneous, offensive, indecent or otherwise objectionable in your jurisdiction.
+In using the Services, you may view content or services provided by third parties, including links to web pages and services of such parties (ï¿½Third Party Contentï¿½). We do not control, endorse or adopt any Third Party Content and have no responsibility for Third Party Content, including, without limitation, material that may be misleading, incomplete, erroneous, offensive, indecent or otherwise objectionable in your jurisdiction.
 
 In addition, your dealings or correspondence with such third parties are solely between you and the third party. We are not responsible or liable for any loss or damage of any sort incurred as a result of any such dealings and your use of Third Party Content is at your own risk.
 
@@ -74,12 +49,12 @@ Intellectual Property Unless otherwise indicated by us, all intellectual propert
 
 We do not give any implied license for the use of the contents of the Site or the Services. You accept and acknowledge that the material and content contained in or delivered by the Site or the Services is made available for your personal, lawful, non-commercial use only and that you may only use such material and content for the purpose of using the Site or the Services as set forth in this agreement.
 
-You further acknowledge that any other use of content from the Site or the Services is strictly prohibited and you agree not to infringe or enable others to infringe our intellectual property rights. You agree to retain all copyrighted and other proprietary notices contained in the materials provided via the Site or the Services on any copy you make of the material but failing to do so shall not prejudice W3PAY’s intellectual property rights therein. You may not sell or modify materials derived or created from the Site or the Services or reproduce, display, publicly perform, distribute or otherwise use the materials in any way for any public or commercial purpose.
+You further acknowledge that any other use of content from the Site or the Services is strictly prohibited and you agree not to infringe or enable others to infringe our intellectual property rights. You agree to retain all copyrighted and other proprietary notices contained in the materials provided via the Site or the Services on any copy you make of the material but failing to do so shall not prejudice W3PAYï¿½s intellectual property rights therein. You may not sell or modify materials derived or created from the Site or the Services or reproduce, display, publicly perform, distribute or otherwise use the materials in any way for any public or commercial purpose.
 
 Your use of such materials on any other website or on a file-sharing or similar service for any purpose is strictly prohibited. You may not copy any material or content derived or created from the Site or the Services without our express, written permission. Any rights not expressly granted herein to use the materials contained on or through the Site or the Services are reserved by W3PAY in full. We respect the intellectual property of others. If you believe that your intellectual property rights are being infringed, please email
 
 Disclaimer Regarding The W3PAY Token
-The Disclaimers are prepared by W3PAY (hereinafter the “Company” or “we”). The Company undertakes a sale (hereinafter the “Sale”) of the W3PAY token or SWAP (hereinafter the “Token”).
+The Disclaimers are prepared by W3PAY (hereinafter the ï¿½Companyï¿½ or ï¿½weï¿½). The Company undertakes a sale (hereinafter the ï¿½Saleï¿½) of the W3PAY token or SWAP (hereinafter the ï¿½Tokenï¿½).
 
 You shall be aware of risks arising from acquiring the Token regarding the cryptographic nature of tokens, cryptocurrency, the uncertainty of its legal regulation, and blockchain-based software and services. You may acquire the Token only if you possess professional knowledge and you have assessed all potential risks.
 
@@ -97,25 +72,25 @@ By acquiring the Token or participating in the Sale, you expressly acknowledge t
 
 When acquiring the Token and participating in the Sale you shall consider and accept the following:
 
-– The Sale shall not be treated as an offer for investment and the Sale does not constitute a proposal of securities in any country or state unless otherwise decided by a regulator.
+ï¿½ The Sale shall not be treated as an offer for investment and the Sale does not constitute a proposal of securities in any country or state unless otherwise decided by a regulator.
 
-– The Sale is not available for citizens or residents of Afghanistan, Bosnia and Herzegovina, Central African Republic, Cuba, the Democratic Republic of the Congo, Democratic People’s Republic of Korea (North Korea), Eritrea, Ethiopia, Guinea-Bissau, Iran, Iraq, Libya, Lebanon, Somalia, South Sudan, Sudan, Syria, Uganda, Vanuatu, Yemen, and the Crimea region or any of their respective states, provinces, territories subject to countrywide or territory-wide sanctions authorised or imposed by Canada and the United Nations (hereinafter the “Restricted Territory”).
+ï¿½ The Sale is not available for citizens or residents of Afghanistan, Bosnia and Herzegovina, Central African Republic, Cuba, the Democratic Republic of the Congo, Democratic Peopleï¿½s Republic of Korea (North Korea), Eritrea, Ethiopia, Guinea-Bissau, Iran, Iraq, Libya, Lebanon, Somalia, South Sudan, Sudan, Syria, Uganda, Vanuatu, Yemen, and the Crimea region or any of their respective states, provinces, territories subject to countrywide or territory-wide sanctions authorised or imposed by Canada and the United Nations (hereinafter the ï¿½Restricted Territoryï¿½).
 
-Upon being informed of the fact that a person is a citizen or resident of the Restricted Territory, the Company will treat such an acquisition as void and no Token shall be acquired by the citizen or resident of the Restricted Territory. – Neither the Token nor the Company’s assets shall be considered fiat money.
+Upon being informed of the fact that a person is a citizen or resident of the Restricted Territory, the Company will treat such an acquisition as void and no Token shall be acquired by the citizen or resident of the Restricted Territory. ï¿½ Neither the Token nor the Companyï¿½s assets shall be considered fiat money.
 
-– The cryptocurrency and Sale may have regulatory burden and control. The Company may be a subject of regulatory inquiries and actions of governments, which may lead to difficulties and postpones of the Sale.
+ï¿½ The cryptocurrency and Sale may have regulatory burden and control. The Company may be a subject of regulatory inquiries and actions of governments, which may lead to difficulties and postpones of the Sale.
 
-– All acquisitions of the Token shall be final and non-refundable unless the Company states or provides otherwise. By acquiring the Token you agree that the Company shall not give refunds for any reason and you shall not receive any refund for any Token even if the Token is unusable, lost, or unavailable.
+ï¿½ All acquisitions of the Token shall be final and non-refundable unless the Company states or provides otherwise. By acquiring the Token you agree that the Company shall not give refunds for any reason and you shall not receive any refund for any Token even if the Token is unusable, lost, or unavailable.
 
-– You as an acquirer shall take appropriate technical and security steps to protect and maintain your blockchain wallet’s security or similar means for possessing the Token. The same level of protection and maintenance shall be provided by you to your private details and account details, without which you cannot access your accounts/wallets or similar means for possessing the Token.
+ï¿½ You as an acquirer shall take appropriate technical and security steps to protect and maintain your blockchain walletï¿½s security or similar means for possessing the Token. The same level of protection and maintenance shall be provided by you to your private details and account details, without which you cannot access your accounts/wallets or similar means for possessing the Token.
 
 By acquiring the Token you agree that the Company shall not be required to give you a refund, account reset or other access to the Token and the Company shall not be liable to you for any damage or loss in the context of your inability to access the Token.
 
-The Company disclaims any responsibility for any consequential or direct damage or loss of any kind arising from: (a) reliance on information published in this document, the Company’s website, third-parties websites, and any applications, (b) any error, omission or inaccuracy of such information or (c) any action or omission arising therefrom. You shall bear in mind that the Token is not an investment.
+The Company disclaims any responsibility for any consequential or direct damage or loss of any kind arising from: (a) reliance on information published in this document, the Companyï¿½s website, third-parties websites, and any applications, (b) any error, omission or inaccuracy of such information or (c) any action or omission arising therefrom. You shall bear in mind that the Token is not an investment.
 
 We do not guarantee or predict that the Token will increase or decrease in value. You acknowledge that the Token may increase or decrease in value from time to time. There is a list of risks that may occur. Please read and understand it. This list is not exhaustive and may be added to by the Company at any time.
 
-You also shall take into account the Company’s public announcements with regard to the Sale.
+You also shall take into account the Companyï¿½s public announcements with regard to the Sale.
 
 1) Risks of Legal Uncertainty Blockchain, cryptocurrency, and crypto assets have been subject to the regulatory burden in different countries. Some decisions of the countries may cause the malfunctioning of the Company or Token, including but not limited to, prohibitions and limits on the ownership or use of crypto tokens like the Token.
 
@@ -123,21 +98,21 @@ You also shall take into account the Company’s public announcements with regard 
 
 3) Risks Related to Your Credentials Any third party that gains access to your login credentials or private keys may dispose of your Tokens. To avoid such risks, you shall take appropriate security and technical measures.
 
-4) Risk that the Company Will Change Its Plans and Strategy The Company undertakes the Sale which depends on many factors and third-party decisions. Your expectancy with regard to the Token or the Company may differ from the reality for a number of reasons including, but not limited to, the Company’s views with regard to the performance of its strategy or plans.
+4) Risk that the Company Will Change Its Plans and Strategy The Company undertakes the Sale which depends on many factors and third-party decisions. Your expectancy with regard to the Token or the Company may differ from the reality for a number of reasons including, but not limited to, the Companyï¿½s views with regard to the performance of its strategy or plans.
 
 5) Risk of Insufficient Interest in the Company or its projects There is a probability that the Company will not be interested by a number of individuals and legal entities. Such a lack of interest could cause the Company, value of the Token or other projects of the Company to decrease in worth.
 
-6) Risk of Malfunction in the Company There is a risk of the Company’s malfunction causing the loss or decrease of the Token.
+6) Risk of Malfunction in the Company There is a risk of the Companyï¿½s malfunction causing the loss or decrease of the Token.
 
 7) Risk of an Illiquid Market for the Token At the time of publication of this document, the Token may not be traded on exchanges. Upon being present on an exchange the Token may cause fraud, experience security failures, or other similar issues. These events may cause a reduction in the value or liquidity of the Token.
 
-8) Risk of Dissolution of the Token There is a risk of unfavourable decreases of the value of the Token. This may result in the impossibility to undertake the Company’s business and may dissolve the Token or to fail to launch the Token.
+8) Risk of Dissolution of the Token There is a risk of unfavourable decreases of the value of the Token. This may result in the impossibility to undertake the Companyï¿½s business and may dissolve the Token or to fail to launch the Token.
 
-9) Risk of Cryptography Development of cryptography or other technical means may cause risks to cryptocurrencies, the Company’s services, and the Token.
+9) Risk of Cryptography Development of cryptography or other technical means may cause risks to cryptocurrencies, the Companyï¿½s services, and the Token.
 
 10) Risk of Security No company in the world can guarantee 100% security of its platforms and services. There may be lacks or mistakes intentionally or unintentionally left which may cause insecurity of the Token.
 
-11) Risk of Theft and Hacking Thieves, hackers, other groups, or criminal organizations may interfere with the Company or Token in various ways, including, but not limited to, DOS or DDoS attacks, man-in-the-middle attacks, smurfing, spoofing, malware attacks, or other attacks which may cause the interference to the Company’s activity, Sale, or Token.
+11) Risk of Theft and Hacking Thieves, hackers, other groups, or criminal organizations may interfere with the Company or Token in various ways, including, but not limited to, DOS or DDoS attacks, man-in-the-middle attacks, smurfing, spoofing, malware attacks, or other attacks which may cause the interference to the Companyï¿½s activity, Sale, or Token.
 
 12) Other Unexpected Risks Cryptocurrency and tokens are a fresh and new technology. Countries may impose regulatory and legal burdens, and other changes to the cryptocurrency and tokens may happen. We naturally cannot predict them. That is why the Company cannot foresee them.
 
@@ -150,6 +125,6 @@ The content contained on this site is for informational purposes only, is genera
 
 Nothing contained herein constitutes a solicitation, recommendation, endorsement, or offer by W3PAY or its affiliates to buy or sell any Tokens, Payments or Transactions participation or other instruments in any jurisdiction in which such solicitation or offer would be unlawful under the laws of such jurisdiction. Citizens and residents of the United States and UN-sanctioned countries are not eligible to participate in any Payment or Transaction. Each individual Payments or Transactions includes a list of excluded jurisdictions that are prohibited from participation.
 
-W3PAY and/or any individuals or companies affiliated with W3PAY are not responsible for any gains or losses that result from the Payments and Transactionses herein. W3PAY makes no representation as to the completeness, accuracy, or timeliness of the material provided. W3PAY assumes no responsibility or liability for any errors or omissions in the site’s content. All materials are subject to change without notice. None of the authors, contributors, or administrators of this site or anyone else connected with W3PAY can be held responsible for your interpretation or use of the information contained on these web pages.
+W3PAY and/or any individuals or companies affiliated with W3PAY are not responsible for any gains or losses that result from the Payments and Transactionses herein. W3PAY makes no representation as to the completeness, accuracy, or timeliness of the material provided. W3PAY assumes no responsibility or liability for any errors or omissions in the siteï¿½s content. All materials are subject to change without notice. None of the authors, contributors, or administrators of this site or anyone else connected with W3PAY can be held responsible for your interpretation or use of the information contained on these web pages.
 
 In making a participation decision, stakers must rely on their own examination of the person or entity issuing the Payments/Transactions token and the terms of the offering, including the merits and risks involved. Participation in any Payments/Transactions involves a high degree of risk and should be considered only by persons who can afford to sustain the loss of their entire funds.
